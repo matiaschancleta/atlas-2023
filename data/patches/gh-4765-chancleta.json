@@ -1,0 +1,32 @@
+{
+	"id": -1,
+	"name": "CHANCLETA",
+	"description": "Matias Rueda, also know as CHANCLETA, is a simple man who likes playing games",
+	"links": {},
+	"path": {
+		"211": [
+			[
+				-941,
+				-369
+			],
+			[
+				-940,
+				-331
+			],
+			[
+				-949,
+				-331
+			],
+			[
+				-947,
+				-369
+			]
+		]
+	},
+	"center": {
+		"211": [
+			-944,
+			-337
+		]
+	}
+}
