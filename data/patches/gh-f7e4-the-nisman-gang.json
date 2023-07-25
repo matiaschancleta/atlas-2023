@@ -1,0 +1,44 @@
+{
+	"id": -1,
+	"name": "The Nisman Gang",
+	"description": "The Nisman Gang is a group of friends that fight agains the adversities to survive along the days",
+	"links": {},
+	"path": {
+		"211": [
+			[
+				-882,
+				-354
+			],
+			[
+				-870,
+				-354
+			],
+			[
+				-870,
+				-327
+			],
+			[
+				-877,
+				-327
+			],
+			[
+				-877,
+				-336
+			],
+			[
+				-882,
+				-336
+			],
+			[
+				-882,
+				-354
+			]
+		]
+	},
+	"center": {
+		"211": [
+			-876,
+			-348
+		]
+	}
+}
